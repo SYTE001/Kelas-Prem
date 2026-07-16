@@ -66,11 +66,11 @@ Inspired by Apple’s product design, the layout focuses on maximum white space,
 
 ### Desktop
 
-![Desktop](Screenshot 2026-07-16 161625.png)
+![Desktop](desktop.png)
 
 ### Mobile
 
-![Mobile](Screenshot 2026-07-16 161819.png)
+![Mobile](mobile.png)
 
 ## 🚀 Getting Started
 
